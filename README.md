@@ -6,5 +6,5 @@
 <ul>
     <li>ローカルサーバ立ち上げ：LOCAL</li>
     <li>コードエディタ：VSCode</li>
-    <li>OS：Windows<li>
+    <li>OS：Windows</li>
 </ul>
